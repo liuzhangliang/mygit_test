@@ -6,6 +6,7 @@ public class GitTest {
 	public String printHello(){
 		return "HelloWorld";//asdlijaslkdj
 		//阿西吧啊哈哈
+		//充了钱才能变得更强
 	}
 	
 	@Test
